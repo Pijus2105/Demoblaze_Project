@@ -23,9 +23,10 @@ public class SignUp {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		
+		//Test Case - 01
 		driver.get("https:\\Demoblaze.com");	
 
-		//Test Case - 01
+		
 		try {
 			//Sign Up
 			if ("Sign Up is not click properly".startsWith("signin2")) {
@@ -77,7 +78,8 @@ public class SignUp {
 		    Thread.sleep(1000);
 		    driver.findElement(By.xpath("//body/div[@id='signInModal']/div[1]/div[1]/div[3]/button[1]")).click();
 		    System.out.println("Close : It is close");
-		    
+		
+		    //Test Case - 02    
 		  //Registration Is Not Allowed  
 		    if (SL.equals(driver.findElement(By.id("sign-username")))) {
 		    	if ("pijusg448@gmail.com".equals("pijusg448@gmail.com")) {

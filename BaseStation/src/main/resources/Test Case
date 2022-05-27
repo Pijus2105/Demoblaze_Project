@@ -1,0 +1,207 @@
+Test  Case – 01
+•	Navigate URL
+•	Ensure The Sign Up Page is Open
+•	User Name & Password - pijusg448@gmail.com & Pijus123@
+•	Sign Up & Alert
+
+ Test Result :-
+ 
+I.	Navigate URL – Done
+II.	Ensure The Sign Up Page is Open - Done
+III. User Name & Password - True 
+IV.	Sign Up & Alert - Done
+
+
+Test  Case – 02
+•	Navigate URL
+•	Ensure The Sign Up Page is Open
+•	Same User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Sign Up & Alert
+ Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Sign Up Page is Open - Done
+III.	Same User Name & Password is not allowed - False
+IV.	Sign Up & Alert - Done
+
+
+
+Test  Case – 03
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+ Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In - Done
+
+
+
+Test  Case – 04
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Log Out
+ Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Log Out - Done
+
+
+Test  Case – 05
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Laptop Choose
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Laptop Choose - Done
+
+
+
+Test  Case – 06
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Laptop Scroll By and Scroll Down
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Laptop Scroll By and Scroll Down - Done
+
+
+Test  Case – 07
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Next & Previous Button
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Next & Previous Button - Done
+
+
+Test  Case – 08
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Choose The Macbook Pro
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Choose The Macbook Pro - Done
+
+Test  Case – 09
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Add To Cart
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Add To Cart - Done
+
+
+
+Test  Case – 10
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	 Ensure Cart Page Is Open
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Ensure Cart Page Is Open - Done
+
+
+
+Test  Case – 11
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Ensure Delete The Product 
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Ensure Delete The Product - Done
+
+
+
+Test  Case – 12
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Filling The Details
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Filling The Details - Done
+Name –TestAutomation
+Country name - ********
+City -@@@@@@
+Credit Card Number – 0123456789
+month - &&&&&&
+Year - $$$$
+
+
+Test  Case – 13
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Purchase The Product
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Purchase The Product - Done
+
+Test  Case – 14
+•	Navigate URL
+•	Ensure The Log In In Page is Open
+•	 User Name & Password is not allowed - pijusg448@gmail.com & Pijus123@
+•	Log In
+•	Confirm The Order
+Test Result :-
+I.	Navigate URL – Done
+II.	Ensure The Log In Page is Open - Done
+III.	User Name & Password is not allowed - True
+IV.	Log In – Done
+V.	Confirm The Order- Done
+
+
+
+
+
+
+

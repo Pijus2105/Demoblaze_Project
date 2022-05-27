@@ -24,7 +24,7 @@ public class LogIn extends SignUp {
 		
 		try {
 			
-			//Test Case - 02
+			//Test Case - 03
 			
 			//LogIn
 			
@@ -56,7 +56,7 @@ public class LogIn extends SignUp {
 			driver.findElement(By.xpath("//button[contains(text(),'Log in')]")).click();
 			
 			
-			//Test Case - 03
+			//Test Case - 04
 			//LogOut
 			Thread.sleep(3000);
 			WebElement Logout = driver.findElement(By.linkText("Log out"));

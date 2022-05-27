@@ -26,7 +26,7 @@ public class Laptop {
 		
 		try {
 			
-			//Test Case - 02
+			//Test Case - 03
 			//Log In
 			
 			if ("SignUp is Not Done".startsWith("signin2")) {
@@ -55,11 +55,14 @@ public class Laptop {
 			
 			driver.findElement(By.xpath("//button[contains(text(),'Log in')]")).click();
 		
-		//Test Case - 04	
+		//Test Case - 05	
 		//Product Choose
 		Thread.sleep(3000);
 		driver.findElement(By.linkText("Laptops")).click();
 		System.out.println("Successfully click");
+		
+		//Test Case - 06
+		//Scroll By & Scroll Down
 		
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		
@@ -72,6 +75,8 @@ public class Laptop {
 		System.out.println("Please go to The next");
 	    driver.findElement(By.xpath("//button[@id='next2']")).click();	
 	    
+	    //Test Case - 07
+	    //Next & Previous
 	    Thread.sleep(3000);
 	    System.out.println("Please go to The previous");
 	    driver.findElement(By.id("prev2")).click();
@@ -79,12 +84,12 @@ public class Laptop {
 	    Thread.sleep(3000);
 		driver.findElement(By.linkText("Laptops")).click();
 		
-		//Test Case - 05
+		//Test Case - 08
 		//Product Select
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//body/div[@id='contcont']/div[1]/div[2]/div[1]/div[6]/div[1]/a[1]/img[1]")).click();
 	
-		//Test Case - 06
+		//Test Case - 09
 		//Add To Cart
 	    Thread.sleep(3000);
 	    driver.findElement(By.linkText("Add to cart")).click();
@@ -114,12 +119,13 @@ public class Laptop {
 		
 		try {
 			
-			//Test Case - 07
+			//Test Case - 10
 			//Cart
 			Thread.sleep(3000);
 			driver.findElement(By.id("cartur")).click();
 			System.out.println("Going to Cart");
 			
+			//Test Case - 11
 			Thread.sleep(3000);
 			driver.findElement(By.xpath("//tbody/tr[1]/td[4]/a[1]")).click();
 			System.out.println("Delete The Extra Product");
@@ -128,7 +134,7 @@ public class Laptop {
 			driver.findElement(By.xpath("//button[@class='btn btn-success']")).click();
 			System.out.println("Place Order");
 			
-			//Test Case - 08
+			//Test Case - 12
 			//Address
 			Thread.sleep(3000);
 			System.out.println("Please enter the Name -TestAutomation");
@@ -155,7 +161,7 @@ public class Laptop {
 			System.out.println("Please enter the Year - $$$$");
 			driver.findElement(By.xpath("//input[@id='year']")).sendKeys("$$$$");
 			
-			//Test Case - 09
+			//Test Case - 13
 			//Purchase
 			Thread.sleep(3000);
 			System.out.println("Purchase The Product");
@@ -165,13 +171,13 @@ public class Laptop {
 			Thread.sleep(3000);
 			js.executeScript("window.scrollBy(0,1000)","");
 			
-			//Test Case - 10
+			//Test Case - 14
 			//Confirm The Order
 			Thread.sleep(3000);
 			System.out.println("OK");
 			driver.findElement(By.xpath("//button[contains(text(),'OK')]")).click();
 			
-			//Test Case - 03
+			//Test Case - 04
 			//Log Out
 			Thread.sleep(3000);
 			WebElement Logout = driver.findElement(By.linkText("Log out"));
